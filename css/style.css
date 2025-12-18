@@ -71,8 +71,9 @@ body{
 .container{
     border: 2px solid white;
     margin:25px 347px;
-    padding: 70px;
-    width: 40%;
+    padding: 15px;
+    max-width: 1200px;
+    width:100%;
     border-radius: 10px;
     opacity: 0.9;
 }
@@ -156,3 +157,4 @@ input:hover {
             opacity: 0.8;
 
         }
+
