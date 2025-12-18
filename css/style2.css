@@ -4,7 +4,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url(../images/gym3.jpeg);
+    background: url("../images/gym3.jpeg");
     background-repeat: no-repeat;
     background-size: 115%;
 }
@@ -48,3 +48,4 @@ body{
     color: rgb(165, 7, 7);
     font-weight: bold;
 }
+
