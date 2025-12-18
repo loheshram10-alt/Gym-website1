@@ -3,7 +3,7 @@ body{
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url(../images/gym1.jpeg);
+    background: url("../images/gym1.jpeg");
     background-repeat: no-repeat;
     background-size: 115%;
 }
@@ -154,4 +154,5 @@ input:hover {
             margin-bottom: 30px;
             font-size: 30px;
             opacity: 0.8;
+
         }
